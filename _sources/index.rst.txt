@@ -6,7 +6,7 @@
 Welcome to "opt2"'s documentation!
 ==================================
 
-¡Hola mundo!
+¡Hola data science World!
 
  .. toctree::
    :maxdepth: 1
